@@ -1,0 +1,28 @@
+# Ignore Maven build files
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Java class files
+*.class
+
+# Node/npm stuff (in case frontend gets added)
+node_modules/
+
+# VSCode
+.vscode/
